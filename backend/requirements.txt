@@ -1,0 +1,5 @@
+Flask~=2.3.2
+pyodbc==4.0.39
+python-dotenv==1.0.0
+pandas==2.0.2
+openpyxl==3.0.10
